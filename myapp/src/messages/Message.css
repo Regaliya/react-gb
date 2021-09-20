@@ -1,0 +1,50 @@
+.app {
+    margin: 0 auto;
+    width: 1440px;
+    min-height: 650px;
+    background-color: #03062f;
+    padding: 20px;
+}
+
+.app__title {
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif
+}
+
+
+.content__message {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    margin: 5px 0;
+    list-style-type: none;
+    color: #fff;
+
+
+
+}
+
+
+.content__submit {
+    color: #000;
+    font-size: 14px;
+    width: 150px;
+    margin: 5px 5px 5px 0;
+}
+
+.content__form {
+    color: #000;
+    font-size: 14px;
+    margin: 5px 5px 5px 0;
+}
+
+.content__input {
+    color: #000;
+    font-size: 14px;
+    width: 200px;
+    margin: 5px 5px 5px 0;
+}
+
+.content__input_name {
+    width: 150px;
+}
